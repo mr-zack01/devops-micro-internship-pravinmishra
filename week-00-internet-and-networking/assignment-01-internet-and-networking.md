@@ -25,7 +25,8 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
+![Task 1 Screenshot](<img width="888" height="164" alt="Screenshot_15-9-2026_143721_chatgpt com" src="https://github.com/user-attachments/assets/7fba5de4-3c37-4c3a-824d-7bcd4f6c6ce3" />
+)
 
 
 Replace `task-1-chatgpt.png` with your actual screenshot file name.
@@ -34,7 +35,9 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+Protocol = Rules for communication between computers/devices.
+
+Just like humans need a common language and rules to communicate, computers also need protocols to communicate.
 
 ---
 
