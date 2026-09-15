@@ -150,7 +150,9 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+1. DNS (Domain Name System) is like the phonebook of the Internet. It converts easy-to-remember domain names, such as epicreads.com, into IP addresses that computers use to find servers.
+
+2. To connect epicreads.com to the given IP address 52.172.142.222, an A (Address) record should be used. An A record maps a domain name to an IPv4 address. Therefore, when a user enters epicreads.com, DNS can direct the request to 52.172.142.222.
 
 ---
 
