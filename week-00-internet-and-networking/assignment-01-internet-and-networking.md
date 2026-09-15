@@ -61,8 +61,16 @@ Write a short explanation (**100–150 words**) that includes:
 💡 **Tip:** You may use ChatGPT (as demonstrated in Task 1) to refine your explanation.
 
 ## Answer
+* Packet Switching
+When a user wants to visit the EpicReads website hosted in Finland, the request travels through the Internet using packet switching.
+* IP Address
+Every device and server on the Internet has an IP address, which acts like a unique address and helps packets reach the correct destination.
+* TCP/IP
+TCP/IP is a set of networking protocols used for communication. IP handles addressing and routing, while TCP helps ensure that packets are delivered reliably and in the correct order.
+* HTTP/HTTPS
+The user's browser uses HTTP or HTTPS to communicate with the EpicReads web server. HTTPS is preferred because it encrypts the communication, helping protect user information.
 
-Add your answer here...
+
 
 ---
 
