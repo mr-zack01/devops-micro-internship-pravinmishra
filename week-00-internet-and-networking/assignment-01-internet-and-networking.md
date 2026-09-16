@@ -292,21 +292,15 @@ https://lnkd.in/dv48m2dt
 
 ### What did you find easy?
 
-Add your answer here...
-
----
+The basic networking topics were easy for me to understand, like IP address, TCP/IP, HTTP/HTTPS and DNS. Setting up VS Code and using the terminal was also easy.
 
 ### What was difficult?
 
-Add your answer here...
-
----
+I found packet switching and application architecture a little confusing. I also had some difficulty understanding how DNS connects a domain name with an IP address, but after going through the examples it became clearer.
 
 ### What will you improve next week?
 
-Add your answer here...
-
----
+Next week, I want to improve my practical skills. I want to practice using the terminal more and learn Git and GitHub properly. I have to spend more time doing things practically instead of only reading the concepts.
 
 ## 📌 About DMI & CloudAdvisory
 
