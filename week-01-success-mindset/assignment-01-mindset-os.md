@@ -223,16 +223,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. Atomic Habits — James Clear
+2. Show Your Work! — Austin Kleon
+3. Can't Hurt Me — David Goggins
+4. Psychology of Money — Morgan Housel
+5. Ego Is the Enemy — Ryan Holiday
+6. Deep Work — Cal Newport
+7. The Phoenix Project — Gene Kim, Kevin Behr, and George Spafford
+8. Extreme Ownership — Jocko Willink and Leif Babin
+9. The DevOps Handbook — Gene Kim, Jez Humble, Patrick Debois, and John Willis
+10. Site Reliability Engineering — Betsy Beyer, Chris Jones, Jennifer Petoff, and Niall Richard Murphy
 
 ---
 
@@ -261,16 +261,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Gym workouts and consistency per week
+* Deep work hours spent on DevOps/AI engineering
+* Public GitHub commits and project documentation
+* Sleep quality and daily recovery levels
+* Technical books/chapters read per month
+* Weekly screen time and focus distraction logs
+* Daily water intake and nutrition targets
+* Personal savings and investment rate
+* Blog posts/technical write-ups published
+* Weekly DMI micro-internship module completion rate
 
 ---
 
@@ -314,21 +314,20 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
-
----
+Mon–Fri: Daily workout routines + 1 hour of continuous technical study.
+Saturday Evening: 3–4 hours of dedicated DMI core module execution.
+Sunday: DMI session catch-up, GitHub project documentation, and weekly review.
 
 ### Focus Blocks
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Saturday Evening (7:00 PM – 10:00 PM)
+Sunday Morning (9:00 AM – 1:00 PM)
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
-
----
+2 Deep Focus Sessions per week.
 
 ### Distraction Rules
 
@@ -340,29 +339,31 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+Environment Isolation: Keep the phone in another room or on Do Not Disturb during dedicated focus blocks.
 
----
+Tab Cleanliness: Keep only relevant technical documentation, terminal, and DMI resources open while working.
+
+Timeboxing: Work in strict 50-minute focused blocks followed by a 10-minute break.
 
 # Reflection – Week 1
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I realized that waiting for ideal conditions or external support is a form of procrastination; my progress depends entirely on my own proactive effort.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+Overthinking setbacks or past failures instead of immediately taking action and pivoting forward.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Dedicated DMI deep-work block every Saturday from 7:00 PM to 10:00 PM without exception.
 
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
 
-`Add your URL here`
+
 
 ---
 
