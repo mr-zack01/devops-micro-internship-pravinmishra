@@ -167,7 +167,7 @@ Hashtags:
 
 Paste your link here:
 
-https://lnkd.in/p/dB-CvXuT
+https://www.linkedin.com/posts/mr-zack01_over-the-past-four-years-the-journey-activity-7505922015053275137-gbVE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGxq6h8BmFdxEjgZsRCQ-jggJncjMKLdHOk
 
 # Assignment 4. Have you ever cut corners (unethical / dishonest / shortcut behavior — not necessarily illegal)? If yes, how did it make you feel?
 
@@ -189,7 +189,7 @@ This is about self-awareness, not judgment.
 
 ### Answer Format
 
-**Yes / No**
+**Yes**
 
 If Yes:
 
@@ -197,7 +197,7 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+When I previously took shortcuts to finish a task quickly rather than understanding the root concept, the immediate outcome felt like a quick win, but it was quickly replaced by a heavy feeling of regret. That regret stemmed from knowing I had compromised my own integrity and cheated my personal growth. Every time I faced a similar problem later, an underlying anxiety surfaced because I knew my foundation was hollow. That experience taught me that shortcuts offer a temporary escape at the expense of long-term confidence and true competence.
 
 ---
 
@@ -296,7 +296,7 @@ Examples:
 
 Answer:
 
-Add your answer here...
+yes
 
 ---
 
@@ -315,7 +315,7 @@ Example:
 #### My Weekly Routine
 
 Mon–Fri: Daily workout routines + 1 hour of continuous technical study.
-Saturday Evening: 3–4 hours of dedicated DMI core module execution.
+Saturday Evening: 3 hours of dedicated DMI core module execution.
 Sunday: DMI session catch-up, GitHub project documentation, and weekly review.
 
 ### Focus Blocks
@@ -323,7 +323,7 @@ Sunday: DMI session catch-up, GitHub project documentation, and weekly review.
 #### When Will You Do DMI Work? (Days + Time)
 
 Saturday Evening (7:00 PM – 10:00 PM)
-Sunday Morning (9:00 AM – 1:00 PM)
+Sunday Morning (10:00 AM – 1:00 PM)
 
 #### How Many Sessions Per Week?
 
@@ -363,13 +363,13 @@ Dedicated DMI deep-work block every Saturday from 7:00 PM to 10:00 PM without ex
 
 Paste your LinkedIn post link here:
 
-
+https://www.linkedin.com/posts/mr-zack01_over-the-past-four-years-the-journey-activity-7505922015053275137-gbVE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGxq6h8BmFdxEjgZsRCQ-jggJncjMKLdHOk
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
+- LinkedIn Post URL: **https://www.linkedin.com/posts/mr-zack01_over-the-past-four-years-the-journey-activity-7505922015053275137-gbVE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGxq6h8BmFdxEjgZsRCQ-jggJncjMKLdHOk**  
 - Blog / Medium : **ADD LINK HERE**  
 
 ---
