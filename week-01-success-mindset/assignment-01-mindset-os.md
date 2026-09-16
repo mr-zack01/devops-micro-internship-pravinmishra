@@ -33,7 +33,9 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+Most people treat failure in a single exam, job interview, or major life milestone as a catastrophic, end-of-the-road event. They internalize it as a permanent reflection of their worth. I strongly disagree with this narrative.
+
+In reality, life does not stop because you failed at one specific thing. A single defeat is rarely a dead end; it is simply a forced pivot point. Society conditions us to follow linear paths, making people believe that missing one exit means you have ruined the entire journey. However, the world is vastly multi-dimensional, offering dozens of alternative routes, skills, and domains to build a successful life. Failing an exam or missing an opportunity simply forces you to explore options you were previously too comfortable to consider. Success isn't about maintaining a flawless record; it's about your speed of recovery and willingness to adapt when a path closes.
 
 ---
 
@@ -55,11 +57,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+At the end of the day, radical self-reliance is the only guaranteed strategy; no one is coming to save you or build your life for you.
 
 ### Evidence from my life
 
-Add your answer here...
+When I faced tough academic and personal setbacks, I initially waited for guidance, support, or external solutions from friends and family. While people gave well-meaning sympathy, nothing actually changed until I took full accountability, sat down alone, and executed the hard work myself.
 
 ---
 
@@ -67,11 +69,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Physical training directly improves mental resilience and sharpens technical execution.
 
 ### Evidence from my life
 
-Add your answer here...
+I began consistently going to the gym and lifting weights even on days when I felt exhausted or unmotivated. Over time, I noticed that pushing through physical discomfort drastically increased my focus, daily energy levels, and tolerance for difficult technical problem-solving.
 
 ---
 
@@ -79,11 +81,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Consistency over time consistently beats sporadic bursts of high intensity.
 
 ### Evidence from my life
 
-Add your answer here...
+I tried cramming long study sessions right before deadlines, which only resulted in burnout and surface-level understanding. When I switched to small, focused daily blocks of learning, my retention improved significantly, and complex technical concepts finally stuck.
 
 ---
 
