@@ -234,7 +234,7 @@ Add the following credit note at the end of your post **(If you are DMI Self-pac
 
 Add the following credit note at the end of your post **(If you are DMI Campus student)**:
 
-> **P.S. This post is part of the DevOps Micro Internship (DMI) — Campus — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=campus**
+> **P.S. This post is part of the DevOps Micro Internship (DMI) — Campus — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/mr-zack01.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=campus**
 
 **Tag [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) in your LinkedIn post, then tag Lead Co-Mentor — [Anjana Muthunayake](https://www.linkedin.com/in/anjana-muthunayake/).**
 
@@ -249,7 +249,6 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 
 Paste your LinkedIn post URL here:
 
-```text
 https://www.linkedin.com/posts/mr-zack01_epic-reads-shop-young-adult-ya-books-activity-7505881429239840768-ek09?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGxq6h8BmFdxEjgZsRCQ-jggJncjMKLdHOk
 ```
 
@@ -259,7 +258,33 @@ https://www.linkedin.com/posts/mr-zack01_epic-reads-shop-young-adult-ya-books-ac
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+🚀 Week 00 | DevOps Micro Internship (DMI) — Internet & Networking
+I’ve completed my Week 00 learning tasks as part of my DevOps journey, focusing on the fundamentals of the Internet, networking, application architecture, DNS, and developer tools.
+🤖 ChatGPT
+I explored how ChatGPT can be used as a learning assistant for understanding technical concepts. I learned that a networking protocol is a set of rules that allows computers and devices to communicate, similar to how people follow common rules while communicating.
+🌐 Internet & Networking
+I learned how a website hosted in one country can be accessed by users around the world using:
+Packet Switching — data is divided into packets and transmitted across the Internet.
+IP Address — identifies devices and helps packets reach the correct destination.
+TCP/IP — provides the fundamental communication and reliable data-transfer mechanisms.
+HTTP/HTTPS — enables communication between a browser and a web server, with HTTPS providing encrypted communication.
+🏗️ App Architecture
+I explored the difference between:
+Two-Tier Architecture: Frontend + Database
+Three-Tier Architecture: Frontend + Backend + Database
+I also explored technologies commonly used in these layers, including HTML, CSS, JavaScript, Node.js, Spring Boot, MySQL, and PostgreSQL.
+🌍 DNS
+I learned how DNS (Domain Name System) translates human-readable domain names into IP addresses.
+For example, an A record can map an IPv4 domain such as epicreads.com to an IPv4 address such as 52.172.142.222.
+💻 VS Code Setup
+I also completed my Visual Studio Code environment setup, including using the integrated terminal and running basic commands.
+This week helped me strengthen my understanding of the foundational concepts that are important before moving deeper into DevOps.
+Looking forward to learning, building, and improving throughout the rest of the internship! 🚀
+hashtag#DMIByPravinMishra hashtag#AgenticAI hashtag#DevOps
+P.S. This post is part of the DevOps Micro Internship (DMI). My graded progress is public:
+https://lnkd.in/dpugC_sd
+Start your DevOps journey:
+https://lnkd.in/dv48m2dt
 
 ---
 
