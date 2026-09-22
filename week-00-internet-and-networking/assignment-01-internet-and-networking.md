@@ -323,6 +323,6 @@ https://dmi.pravinmishra.com/s/mr-zack01.html
 Start your DevOps journey:
 https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=campus
 
-Tagging **Pravin Mishra** and **Anjana Muthunayake**.
+**Pravin Mishra** and **Anjana Muthunayake**.
 
 #DMIByPravinMishra #AgenticAI #DevOps #DevOpsJourney #Networking #LearningInPublic
