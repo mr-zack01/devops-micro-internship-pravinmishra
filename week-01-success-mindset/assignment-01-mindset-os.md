@@ -155,19 +155,13 @@ Hashtags:
 
 ## Your Article
 
-🚀 Over the past four years, the journey from an entry-level enthusiast to a seasoned DevOps and Cloud Infrastructure Engineer was defined by deliberate execution, relentless hands-on practice, and continuous adaptation.
 
-🛠️ After committing to deep infrastructure engineering, I systematically built, deployed, and managed scalable cloud platforms. Rather than focusing on theoretical knowledge, I shifted toward building production-grade environments. I designed automated CI/CD pipelines using GitHub Actions and Jenkins, containerized complex applications with Docker, and managed resilient Kubernetes clusters running on AWS. ☁️ My open-source repositories on GitHub demonstrated end-to-end automation, declarative Infrastructure as Code (IaC) using Terraform, and proactive monitoring using Prometheus and Grafana.
-
-📈 In my recent role as a Lead DevOps Engineer, I led the migration of core legacy workloads to cloud-native microservices architecture, reducing deployment downtime by 85% and cutting infrastructure overhead. Beyond individual performance, I mentored junior engineers 👥, established modern GitOps practices across engineering teams, and published technical articles documenting real-world incident response protocols and infrastructure security.
-
-📜 I earned key industry certifications, including the AWS Certified Solutions Architect – Associate and the Certified Kubernetes Administrator (CKA), proving mastery over modern cloud ecosystems. By prioritizing practical execution and agentic AI tools to streamline automation pipelines, my work evolved into building resilient, self-healing systems that scale reliably under pressure. 🤖⚡
 
 ### Public Link
 
 Paste your link here:
 
-https://www.linkedin.com/posts/mr-zack01_over-the-past-four-years-the-journey-activity-7505922015053275137-gbVE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGxq6h8BmFdxEjgZsRCQ-jggJncjMKLdHOk
+
 
 # Assignment 4. Have you ever cut corners (unethical / dishonest / shortcut behavior — not necessarily illegal)? If yes, how did it make you feel?
 
@@ -363,13 +357,12 @@ Dedicated DMI deep-work block every Saturday from 7:00 PM to 10:00 PM without ex
 
 Paste your LinkedIn post link here:
 
-https://www.linkedin.com/posts/mr-zack01_over-the-past-four-years-the-journey-activity-7505922015053275137-gbVE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGxq6h8BmFdxEjgZsRCQ-jggJncjMKLdHOk
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **https://www.linkedin.com/posts/mr-zack01_over-the-past-four-years-the-journey-activity-7505922015053275137-gbVE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGxq6h8BmFdxEjgZsRCQ-jggJncjMKLdHOk**  
+- LinkedIn Post URL: **ADD LINK HERE** 
 - Blog / Medium : **ADD LINK HERE**  
 
 ---
