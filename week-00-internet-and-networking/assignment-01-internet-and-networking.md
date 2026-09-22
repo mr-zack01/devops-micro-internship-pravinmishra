@@ -249,8 +249,7 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 
 Paste your LinkedIn post URL here:
 
-https://www.linkedin.com/posts/mr-zack01_epic-reads-shop-young-adult-ya-books-activity-7505881429239840768-ek09?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGxq6h8BmFdxEjgZsRCQ-jggJncjMKLdHOk
-```
+
 
 ---
 
@@ -258,67 +257,3 @@ https://www.linkedin.com/posts/mr-zack01_epic-reads-shop-young-adult-ya-books-ac
 
 Paste the full text of your LinkedIn post here:
 
-🚀 Week 00 | DevOps Micro Internship (DMI) — Internet & Networking
-I’ve completed my Week 00 learning tasks as part of my DevOps journey, focusing on the fundamentals of the Internet, networking, application architecture, DNS, and developer tools.
-🤖 ChatGPT
-I explored how ChatGPT can be used as a learning assistant for understanding technical concepts. I learned that a networking protocol is a set of rules that allows computers and devices to communicate, similar to how people follow common rules while communicating.
-🌐 Internet & Networking
-I learned how a website hosted in one country can be accessed by users around the world using:
-Packet Switching — data is divided into packets and transmitted across the Internet.
-IP Address — identifies devices and helps packets reach the correct destination.
-TCP/IP — provides the fundamental communication and reliable data-transfer mechanisms.
-HTTP/HTTPS — enables communication between a browser and a web server, with HTTPS providing encrypted communication.
-🏗️ App Architecture
-I explored the difference between:
-Two-Tier Architecture: Frontend + Database
-Three-Tier Architecture: Frontend + Backend + Database
-I also explored technologies commonly used in these layers, including HTML, CSS, JavaScript, Node.js, Spring Boot, MySQL, and PostgreSQL.
-🌍 DNS
-I learned how DNS (Domain Name System) translates human-readable domain names into IP addresses.
-For example, an A record can map an IPv4 domain such as epicreads.com to an IPv4 address such as 52.172.142.222.
-💻 VS Code Setup
-I also completed my Visual Studio Code environment setup, including using the integrated terminal and running basic commands.
-This week helped me strengthen my understanding of the foundational concepts that are important before moving deeper into DevOps.
-Looking forward to learning, building, and improving throughout the rest of the internship! 🚀
-hashtag#DMIByPravinMishra hashtag#AgenticAI hashtag#DevOps
-P.S. This post is part of the DevOps Micro Internship (DMI). My graded progress is public:
-https://lnkd.in/dpugC_sd
-Start your DevOps journey:
-https://lnkd.in/dv48m2dt
-
----
-
-# Reflection – Week 0
-
-### What did you find easy?
-
-* The basic networking topics were easy for me to understand, like IP address, TCP/IP, HTTP/HTTPS and DNS. Setting up VS Code and using the terminal was also easy.
-
-### What was difficult?
-
-* I found packet switching and application architecture a little confusing. I also had some difficulty understanding how DNS connects a domain name with an IP address, but after going through the examples it became clearer.
-
-### What will you improve next week?
-
-* Next week, I want to improve my practical skills. I want to practice using the terminal more and learn Git and GitHub properly. I have to spend more time doing things practically instead of only reading the concepts.
-
-## 📌 About DMI & CloudAdvisory
-
-DevOps Micro Internship (DMI) is a project-based DevOps program run by Pravin Mishra (The CloudAdvisory) focused on real-world execution, systems thinking, and career readiness.
-
-It helps learners build strong DevOps foundations with hands-on experience.
-
-
-## 📌 Resources
-
-- 🌐 **DMI Official Website:** https://dmi.pravinmishra.com?utm_source=github&utm_medium=readme  
-- 🎓 **University:** https://university.pravinmishra.com?utm_source=github&utm_medium=readme  
-- 💬 **Discord Community:** https://discord.pravinmishra.com?utm_source=github&utm_medium=readme  
-- 📝 **Blog:** https://dmi.pravinmishra.com/blog?utm_source=github&utm_medium=readme  
-- ▶️ **YouTube Playlist (DMI Cohort 3):** https://www.youtube.com/playlist?list=PLFeSNDtI4Cho  
-- 🔗 **Pravin Mishra (LinkedIn):** https://www.linkedin.com/in/pravin-mishra-aws-trainer/  
-- 🏢 **CloudAdvisory (LinkedIn):** https://www.linkedin.com/company/thecloudadvisory/
-
----
-
-*This submission is part of DevOps Micro Internship (DMI) — Agentic AI Track*
