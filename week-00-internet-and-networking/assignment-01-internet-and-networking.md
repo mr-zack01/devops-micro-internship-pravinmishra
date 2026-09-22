@@ -257,3 +257,72 @@ Paste your LinkedIn post URL here:
 
 Paste the full text of your LinkedIn post here:
 
+🚀 **Week 00 of my DevOps Journey is complete!**
+
+I’ve officially started my **DevOps Micro Internship with Agentic AI**, and this week was all about understanding the fundamentals of how the Internet and applications work behind the scenes. 🌐
+
+Here’s what I explored 👇
+
+🤖 **1. ChatGPT as a Learning Assistant**
+
+I learned how to use AI effectively as a learning companion for understanding technical concepts — starting with something fundamental:
+
+👉 What is a networking protocol?
+
+🌐 **2. Internet & Networking**
+
+I explored how a user's request travels across the Internet and reaches a server located anywhere in the world.
+
+Key concepts I learned:
+• 📦 Packet Switching
+• 🌍 IP Addresses
+• 🔗 TCP/IP
+• 🔐 HTTP & HTTPS
+
+🏗️ **3. Application Architecture**
+
+I explored the difference between **2-Tier and 3-Tier architectures**:
+
+**2-Tier**
+Frontend → Database
+
+**3-Tier**
+Frontend → Backend → Database
+
+I also explored technologies such as **HTML, CSS, JavaScript, Node.js, Spring Boot, MySQL, and PostgreSQL.**
+
+🌍 **4. DNS — The Internet's Address Book**
+
+I learned how DNS converts human-friendly domain names into IP addresses.
+
+For example:
+
+`epicreads.com` → `52.172.142.222`
+
+I also learned why an **A record** is used to map a domain to an IPv4 address.
+
+💻 **5. VS Code Setup**
+
+I configured my development environment using **Visual Studio Code** and practiced using its integrated terminal with basic commands.
+
+📌 **Key takeaway from Week 00:**
+
+Before automating deployments, managing containers, or building CI/CD pipelines, it’s important to understand the fundamentals of **networking, application architecture, DNS, and development environments.**
+
+This is just the beginning. 🚀
+
+**Week 00 ✅ | Next: More DevOps concepts, hands-on practice & building!**
+
+---
+
+P.S. This post is part of the **DevOps Micro Internship (DMI) — Campus — by Pravin Mishra.**
+
+My graded progress is public:
+https://dmi.pravinmishra.com/s/mr-zack01.html
+
+Start your DevOps journey:
+https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=campus
+
+Tagging **Pravin Mishra** and **Anjana Muthunayake**.
+
+#DMIByPravinMishra #AgenticAI #DevOps #DevOpsJourney #Networking #LearningInPublic
