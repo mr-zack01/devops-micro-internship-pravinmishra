@@ -20,7 +20,7 @@ Install the Claude Code CLI globally and authenticate it using your Anthropic ac
 
 #### Screenshot 1 — Terminal showing `claude --version` with the version number visible
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ebf3c1b8-1d5b-4b30-970d-449c26f87b3b" />
+<img width="1920" height="1080" alt="Screenshot1" src="https://github.com/user-attachments/assets/aced6e3b-f68d-4373-a2b5-e1d06a2f88bb" />
 
 
 
@@ -28,7 +28,8 @@ Install the Claude Code CLI globally and authenticate it using your Anthropic ac
 
 #### Screenshot 2 — Claude Code authenticated and showing the terminal prompt (your name visible)
 
-Add your screenshot here.
+<img width="2001" height="786" alt="screenshot2" src="https://github.com/user-attachments/assets/bead96df-f35d-42fc-959a-33b23fa6032d" />
+
 
 ---
 
