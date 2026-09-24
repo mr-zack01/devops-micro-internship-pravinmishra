@@ -20,7 +20,8 @@ Create the required `.claude/skills/` directory structure for all skills.
 
 #### Screenshot 1 — VS Code sidebar showing `.claude/skills/` folder with all 4 subfolders visible
 
-Add your screenshot here.
+<img width="377" height="1078" alt="image" src="https://github.com/user-attachments/assets/f27e0016-efbb-4d30-ac39-50e7e3aea7bd" />
+
 
 ---
 
