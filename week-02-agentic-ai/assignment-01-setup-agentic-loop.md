@@ -58,7 +58,8 @@ Interact with Claude Code and observe how it performs the Agentic Loop (Gather â
 
 #### Screenshot 4 â€” Claude's response to the first question, showing it read the files (tool calls visible)
 
-Add your screenshot here.
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/bcf6b910-0ea1-4c3a-8f02-27c6e077a340" />
+
 
 ---
 
