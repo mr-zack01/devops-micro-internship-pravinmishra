@@ -83,7 +83,8 @@ Add your screenshot here.
 
 #### Screenshot 5 — Security audit report output
 
-Add your screenshot here.
+<img width="1917" height="775" alt="image" src="https://github.com/user-attachments/assets/53327b8e-a51f-4911-8dfc-3e16366a3a9c" />
+
 
 ---
 
