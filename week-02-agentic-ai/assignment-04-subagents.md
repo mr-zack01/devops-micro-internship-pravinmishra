@@ -55,7 +55,8 @@ inherit lets it use the model selected by the current Claude Code session.
 
 #### Screenshot 2 — `security-auditor.md` frontmatter showing model and tools configuration
 
-Add your screenshot here.
+<img width="1631" height="1077" alt="image" src="https://github.com/user-attachments/assets/49b61b8e-67fb-4dba-bd6e-73e51da375d5" />
+
 
 ---
 
