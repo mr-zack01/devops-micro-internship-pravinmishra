@@ -62,7 +62,8 @@ inherit lets it use the model selected by the current Claude Code session.
 
 #### Screenshot 3 — `cost-optimizer.md` frontmatter showing the model and tools configuration
 
-Add your screenshot here.
+<img width="1595" height="1006" alt="image" src="https://github.com/user-attachments/assets/908e50ad-4b03-4c3d-b637-0d8f496bc9ba" />
+
 
 ---
 
