@@ -79,13 +79,39 @@ Share your Week 2 learning publicly on LinkedIn.
 LinkedIn Post Content (copy-paste here):
 
 ```
-https://lnkd.in/p/dUB-pjK4
+🚀 Week 2 Reflection — Learning Agentic AI
+
+Week 2 of my DevOps Micro Internship with Agentic AI gave me a better understanding of how AI agents can become part of a real development workflow.
+
+Some of the concepts I explored included:
+
+🔹 Memory — understanding how project-specific information can be stored and reused across sessions.
+
+🔹 Permissions — learning why controlling what an AI agent can access or modify is important.
+
+🔹 Skills & Subagents — seeing how complex tasks can be broken down into smaller, more specialized workflows.
+
+One of my biggest takeaways was that using agentic AI is not simply about writing better prompts. It's also about understanding the tools, checking what the agent actually did, and knowing when to verify the result yourself.
+
+I also faced some practical challenges while working with persistent memory. It taught me an important lesson: never assume that something worked just because an AI assistant says it did. Verify it.
+
+My new habit going forward:
+
+✅ Verify before trust.
+
+Whenever an AI agent changes files, stores information, or performs an important task, I'll check the actual result before considering the task complete.
+
+Week 2 has changed the way I think about AI-assisted development. I'm starting to see agentic AI not as a replacement for developers, but as a powerful assistant that works best with clear instructions, appropriate permissions, and human oversight.
+
+Looking forward to learning more in Week 3! 🚀
+
+#DevOps #AgenticAI #AI #SoftwareDevelopment #Learning #MicroInternship #GitHub #Developer
 
 ---
 
 ### LinkedIn Post Link:
 
-`Add your URL here`
+https://lnkd.in/p/dUB-pjK4
 
 ---
 
