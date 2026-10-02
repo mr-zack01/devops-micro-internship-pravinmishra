@@ -122,6 +122,9 @@ Prove the logging hook runs after a successful command execution and records Ter
 
 #### Screenshot 9 — `.claude/deploy.log` showing the logged command
 
+
+<img width="1912" height="730" alt="Screenshot 2026-10-02 160018" src="https://github.com/user-attachments/assets/9c58a947-69e1-4755-b1eb-bf0914f5acda" />
+
 ---
 
 # Task 9 — Share Your AI Safety Achievement
