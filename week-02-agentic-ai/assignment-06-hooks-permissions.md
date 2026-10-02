@@ -92,6 +92,8 @@ Prove the prompt-level hook works by typing a destructive prompt and verifying i
 
 #### Screenshot 6 — UserPromptSubmit hook blocking the destructive prompt
 
+<img width="445" height="570" alt="Screenshot 2026-10-02 155100" src="https://github.com/user-attachments/assets/a14b2385-3013-467e-9a90-01edc9ed83f1" />
+
 ---
 
 # Task 7 — Test the PreToolUse Hook
