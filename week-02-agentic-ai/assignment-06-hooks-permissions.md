@@ -35,7 +35,7 @@ Create a hook that checks user prompts before Claude processes them and blocks r
 
 #### Screenshot 2 — `user-prompt-guard.sh` open in VS Code showing the hook script
 
-Add your screenshot here.
+<img width="1746" height="705" alt="image" src="https://github.com/user-attachments/assets/3eb505fc-bf85-4c2d-b19a-d29b6739be76" />
 
 ---
 
