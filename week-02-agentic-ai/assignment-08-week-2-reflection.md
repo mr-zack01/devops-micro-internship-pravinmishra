@@ -66,11 +66,20 @@ Share your Week 2 learning publicly on LinkedIn.
 
 ---
 
+### Suggested Hashtags
+
+#DMIByPravinMishra #AgenticAI #ClaudeCode #DevOps #LearningInPublic
+
+---
+
 ### Evidence
 
 #### Screenshot 2 — LinkedIn post published
 
-<img width="1112" height="891" alt="image" src="https://github.com/user-attachments/assets/99f44907-e66b-4655-85a2-9e63b6ce1dbd" />
+
+<img width="1041" height="932" alt="image" src="https://github.com/user-attachments/assets/6caec165-8990-4199-86b8-97982f106cee" />
+
+
 
 ---
 
