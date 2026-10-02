@@ -54,7 +54,7 @@ You can publish your blog on:
 
 Blog Link:
 
-`https://medium.com/@zakariya.arqam1086/reflection-week-02-0408ffec7766?sharedUserId=zakariya.arqam1086`
+https://medium.com/@zakariya.arqam1086/reflection-week-02-0408ffec7766?sharedUserId=zakariya.arqam1086
 
 ---
 
