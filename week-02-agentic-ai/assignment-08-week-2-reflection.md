@@ -46,7 +46,7 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-Add your screenshot here.
+<img width="1868" height="977" alt="image" src="https://github.com/user-attachments/assets/ca042fa8-5eae-43ef-ba98-bcd4476a6587" />
 
 ---
 
@@ -54,7 +54,7 @@ Add your screenshot here.
 
 Blog Link:
 
-`Add your URL here`
+`https://medium.com/@zakariya.arqam1086/reflection-week-02-0408ffec7766?sharedUserId=zakariya.arqam1086`
 
 ---
 
