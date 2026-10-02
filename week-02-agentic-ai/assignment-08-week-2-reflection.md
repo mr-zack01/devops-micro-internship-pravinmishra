@@ -87,7 +87,7 @@ Share your Week 2 learning publicly on LinkedIn.
 
 LinkedIn Post Content (copy-paste here):
 
-```
+
 🚀 Week 2 Reflection — Learning Agentic AI
 
 Week 2 of my DevOps Micro Internship with Agentic AI gave me a better understanding of how AI agents can become part of a real development workflow.
@@ -116,12 +116,13 @@ Looking forward to learning more in Week 3! 🚀
 
 #DevOps #AgenticAI #AI #SoftwareDevelopment #Learning #MicroInternship #GitHub #Developer
 
+
+
 ---
 
 ### LinkedIn Post Link:
 
-https://lnkd.in/p/dUB-pjK4
-
+https://lnkd.in/p/dEzi5C55
 ---
 
 # Submission Instructions
