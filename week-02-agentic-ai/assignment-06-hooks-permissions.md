@@ -127,19 +127,7 @@ Prove the logging hook runs after a successful command execution and records Ter
 
 ---
 
-# Task 9 — Share Your AI Safety Achievement
 
-## Goal
-
-Share how you built safety controls that prevent an AI agent from performing destructive actions.
-
-### Evidence
-
-#### Screenshot 10 — Published post on X or LinkedIn showing your AI safety achievement message and leaderboard progress link visible
-
-Add your screenshot here.
-
----
 
 # Submission Instructions
 
