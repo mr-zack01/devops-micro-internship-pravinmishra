@@ -105,7 +105,9 @@ Commit the `CLAUDE.md` file and push it to your GitHub fork so the project instr
 
 Paste your forked repository URL here:
 
-`Add your URL here`
+https://github.com/mr-zack01/devops-micro-internship-pravinmishra
+
+https://github.com/mr-zack01/Ultimate-Agentic-DevOps-with-Claude-Code
 
 ---
 
