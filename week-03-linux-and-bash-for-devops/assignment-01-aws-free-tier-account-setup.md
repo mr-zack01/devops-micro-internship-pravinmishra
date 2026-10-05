@@ -32,9 +32,9 @@ The current new-customer offer can provide benefits for up to 6 months, dependin
 
 #### Question 3 — Name three AWS Free Tier services and their free usage limits.
 
-EC2: Free usage for eligible compute resources under the current Free Tier offer.
-S3: 5 GB of Standard storage.
-Lambda: 1 million requests/month.
+*EC2: Free usage for eligible compute resources under the current Free Tier offer.
+*S3: 5 GB of Standard storage.
+*Lambda: 1 million requests/month.
 ---
 
 # Task 2 — Create AWS Free Tier Account
