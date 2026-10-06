@@ -130,7 +130,7 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ✅ Completed  |  ✅ solved | https://lnkd.in/p/dPJuQscX | https://medium.com/@zakariya.arqam1086/week-00-internet-networking-starting-my-devops-journey-5012565d09c5|
+| 00 | Internet & Networking Basics | ✅ Completed  |  ✅ solved | https://www.linkedin.com/posts/mr-zack01_dmibypravinmishra-agenticai-devops-share-7508059654703480832--1rq/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGxq6h8BmFdxEjgZsRCQ-jggJncjMKLdHOk | https://medium.com/@zakariya.arqam1086/week-00-internet-networking-starting-my-devops-journey-5012565d09c5|
 | 01 | Success Mindset | ✅ Completed | ✅ solved | https://lnkd.in/p/djvdbJRU | https://medium.com/@zakariya.arqam1086/my-mindset-os-building-the-version-of-myself-that-executes-9b73675b06e8 |
 | 02 | Agentic AI with Claude Code | ✅ Completed | ✅ solved | https://www.linkedin.com/posts/mr-zack01_devops-agenticai-ai-share-7511744695065022464-GFSh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGxq6h8BmFdxEjgZsRCQ-jggJncjMKLdHOk | https://medium.com/@zakariya.arqam1086/week-2-done-de35d5cad388 |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
