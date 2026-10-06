@@ -122,7 +122,7 @@ Looking forward to learning more in Week 3! 🚀
 
 ### LinkedIn Post Link:
 
-https://lnkd.in/p/dEzi5C55
+https://www.linkedin.com/posts/mr-zack01_devops-agenticai-ai-share-7511744695065022464-GFSh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGxq6h8BmFdxEjgZsRCQ-jggJncjMKLdHOk
 ---
 
 # Submission Instructions
