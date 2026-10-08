@@ -76,7 +76,7 @@ Install dependencies and generate the production build.
 
 #### Screenshot 5 — Output of `ls` inside `my-react-app` showing the `build/` folder generated
 
-Add your screenshot here.
+<img width="1235" height="372" alt="image" src="https://github.com/user-attachments/assets/6166eadd-4429-4ac5-b3ef-a1c1203911de" />
 
 ---
 
