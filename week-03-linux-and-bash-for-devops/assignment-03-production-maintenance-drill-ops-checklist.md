@@ -205,19 +205,19 @@ Ensure the correct React build is deployed and Nginx is serving it properly.
 
 #### Screenshot 1 — Output of `ls -lah /var/www/html | head -n 20`
 
-Add your screenshot here.
+<img width="1502" height="462" alt="image" src="https://github.com/user-attachments/assets/1ed44a67-b45d-417e-8329-5a134c088229" />
 
 ---
 
 #### Screenshot 2 — Output of `grep -R "Deployed by" -n /var/www/html 2>/dev/null | head`
 
-Add your screenshot here.
+<img width="1500" height="998" alt="image" src="https://github.com/user-attachments/assets/3fe67b16-7a8d-4e62-ab26-5c2e92cbf1f6" />
 
 ---
 
 #### Screenshot 3 — Output of `grep -n "try_files" /etc/nginx/sites-available/default`
 
-Add your screenshot here.
+<img width="1511" height="165" alt="image" src="https://github.com/user-attachments/assets/004d9d67-d1ea-4903-8b4d-491589a6793b" />
 
 ---
 
@@ -227,8 +227,7 @@ Answer the following in your own words:
 
 **1. How do you confirm that the correct version of the application is deployed?**
 
-Write your answer here.
-
+I checked /var/www/html and confirmed that the deployment contains index.html, asset-manifest.json, images, and the static directory. These are consistent with a React production build.
 ---
 
 # Task 6 — Nginx Configuration Failure Simulation
@@ -241,19 +240,19 @@ Simulate a real-world Nginx misconfiguration and recover the service safely.
 
 #### Screenshot 1 — Output of `sudo nginx -t` showing the syntax error (broken config)
 
-Add your screenshot here.
+<img width="1505" height="327" alt="image" src="https://github.com/user-attachments/assets/240f86f8-f8bd-4058-a383-5d947f880223" />
 
 ---
 
 #### Screenshot 2 — Output of `sudo nginx -t` showing syntax ok (fixed config)
 
-Add your screenshot here.
+<img width="1507" height="285" alt="image" src="https://github.com/user-attachments/assets/3a8bac05-2d5c-4ce3-9e3b-acadb76d59ad" />
 
 ---
 
 #### Screenshot 3 — Output of `curl -I http://<public-ip>` confirming recovery (200 OK)
 
-Add your screenshot here.
+<img width="1507" height="207" alt="image" src="https://github.com/user-attachments/assets/5285e001-f2fe-47aa-94f9-8c7d31d10fbe" />
 
 ---
 
@@ -263,20 +262,17 @@ Answer the following in your own words:
 
 **1. What caused the configuration failure?**
 
-Write your answer here.
-
+I temporarily removed the semicolon from the try_files directive. Running sudo nginx -t detected a syntax error and reported an unexpected closing brace. I did not restart Nginx while the configuration was invalid.
 ---
 
 **2. How did you fix the issue?**
 
-Write your answer here.
-
+I restored the original configuration from the backup file and ran sudo nginx -t again. The test confirmed that the syntax was correct and the configuration was successful.
 ---
 
 **3. How can you avoid this kind of issue in real production systems?**
 
-Write your answer here.
-
+I checked the Nginx service status and confirmed it was active. I also ran curl -I http://127.0.0.1, which returned HTTP/1.1 200 OK, confirming that Nginx was serving the application successfully.
 ---
 
 # Task 7 — Web Application Failure Simulation
@@ -289,13 +285,13 @@ Simulate missing deployment content and recover the application safely.
 
 #### Screenshot 1 — Output of `curl -I http://<public-ip>` showing failure (non-200 response)
 
-Add your screenshot here.
+<img width="1503" height="525" alt="image" src="https://github.com/user-attachments/assets/f84ddc49-78f0-4c36-a5e5-1768659bd0fd" />
 
 ---
 
 #### Screenshot 2 — Output of `curl -I http://<public-ip>` confirming recovery (200 OK)
 
-Add your screenshot here.
+<img width="1505" height="255" alt="image" src="https://github.com/user-attachments/assets/91948a47-5aed-4445-b17f-e0faf1d88d9f" />
 
 ---
 
@@ -305,20 +301,17 @@ Answer the following in your own words:
 
 **1. What caused the application to break in this scenario?**
 
-Write your answer here
-
+I moved /var/www/html to /var/www/html_backup and created an empty web directory. The local HTTP request returned 500 Internal Server Error because the expected application files were missing.
 ---
 
 **2. How did you fix the issue and restore the application?**
 
-Write your answer here.
-
+I removed the empty directory and moved the backup back to /var/www/html. I then tested the Nginx configuration and restarted the service.
 ---
 
 **3. What steps would you take to prevent this kind of issue in real production systems?**
 
-Write your answer here.
-
+The Nginx configuration test succeeded, and curl -I http://127.0.0.1 returned HTTP/1.1 200 OK, confirming that the website was serving requests again.
 ---
 
 # Task 8 — Security & Reliability Review
@@ -333,32 +326,27 @@ Answer the following in your own words:
 
 **1. Why is SSH key-based authentication more secure than sharing passwords?**
 
-Write your answer here.
-
+SSH keys provide stronger authentication than passwords when configured correctly. The private key stays on the administrator’s device, making remote access harder to compromise through password guessing or reuse. Private keys should be stored securely and never shared.
 ---
 
 **2. Why should only required ports be open on a production server?**
 
-Write your answer here.
-
+Opening only necessary ports reduces the server’s attack surface and limits which services can be reached by unauthorized users. For this web server, HTTP on port 80 and restricted SSH access on port 22 are expected, depending on the deployment requirements.
 ---
 
 **3. Why is it important for Nginx to be enabled on boot?**
 
-Write your answer here.
-
+Enabling Nginx at boot allows the web server to start automatically after a system reboot, reducing downtime and the need for manual intervention.
 ---
 
 **4. What are the risks of sharing secrets, keys, or credentials publicly?**
 
-Write your answer here.
-
+Anyone who obtains valid credentials or a private key may gain unauthorized access, modify files, steal data, or misuse cloud resources. Exposed credentials should be revoked or rotated immediately.
 ---
 
 **5. Why should cloud resources be stopped or terminated when they are no longer needed?**
 
-Write your answer here.
-
+Unused resources can create unnecessary cloud costs and increase security exposure. Before terminating an instance, confirm that required data and backups are preserved because termination may permanently delete data.
 ---
 
 # LinkedIn Post (Required)
@@ -389,17 +377,17 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] Task 1: Screenshots (browser, ip a, ss -tulpen, ufw status) + Notes answered
-- [ ] Task 2: Screenshots (nginx status, nginx -t, ss port 80) + Notes answered
-- [ ] Task 3: Screenshots (access log, error log, journalctl) + Notes answered
-- [ ] Task 4: Screenshots (uptime, free -h, df -h, du -sh) + Notes answered
-- [ ] Task 5: Screenshots (ls html, grep deployed by, grep try_files) + Notes answered
-- [ ] Task 6: Screenshots (nginx -t fail, nginx -t pass, curl recovery) + Notes answered
-- [ ] Task 7: Screenshots (curl failure, curl recovery) + Notes answered
-- [ ] Task 8: Security & Reliability Notes answered
-- [ ] LinkedIn post published and URL submitted
-- [ ] Full Name visible in all required screenshots
-- [ ] No sensitive data exposed
+- [✅] Task 1: Screenshots (browser, ip a, ss -tulpen, ufw status) + Notes answered
+- [✅] Task 2: Screenshots (nginx status, nginx -t, ss port 80) + Notes answered
+- [✅] Task 3: Screenshots (access log, error log, journalctl) + Notes answered
+- [✅] Task 4: Screenshots (uptime, free -h, df -h, du -sh) + Notes answered
+- [✅] Task 5: Screenshots (ls html, grep deployed by, grep try_files) + Notes answered
+- [✅] Task 6: Screenshots (nginx -t fail, nginx -t pass, curl recovery) + Notes answered
+- [✅] Task 7: Screenshots (curl failure, curl recovery) + Notes answered
+- [✅] Task 8: Security & Reliability Notes answered
+- [✅] LinkedIn post published and URL submitted
+- [✅] Full Name visible in all required screenshots
+- [✅] No sensitive data exposed
 
 ---
 
