@@ -357,13 +357,12 @@ Unused resources can create unnecessary cloud costs and increase security exposu
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
-
+https://www.linkedin.com/posts/mr-zack01_devops-linux-aws-share-7514198721354715136-SapU/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGxq6h8BmFdxEjgZsRCQ-jggJncjMKLdHOk
 ---
 
 #### Screenshot — Published LinkedIn post
 
-Add your screenshot here.
+<img width="1022" height="777" alt="image" src="https://github.com/user-attachments/assets/0e5aa3e0-2ab9-4fac-9ec4-e5ecf769703d" />
 
 ---
 
