@@ -159,25 +159,25 @@ Assess server capacity and detect potential performance or failure risks.
 
 #### Screenshot 1 — Output of `uptime`
 
-Add your screenshot here.
+<img width="1505" height="337" alt="image" src="https://github.com/user-attachments/assets/9e33c249-bf9d-4fc0-9939-3152b00bcc48" />
 
 ---
 
 #### Screenshot 2 — Output of `free -h`
 
-Add your screenshot here.
+<img width="1357" height="216" alt="image" src="https://github.com/user-attachments/assets/76896abd-4259-4e2f-9ef9-383ecb541d3c" />
 
 ---
 
 #### Screenshot 3 — Output of `df -h`
 
-Add your screenshot here.
+<img width="1505" height="345" alt="image" src="https://github.com/user-attachments/assets/93e02503-76fb-4af2-ab68-08132656e04e" />
 
 ---
 
 #### Screenshot 4 — Output of `sudo du -sh /var/* | sort -h`
 
-Add your screenshot here.
+<img width="1506" height="350" alt="image" src="https://github.com/user-attachments/assets/b600c033-7678-4136-9415-66c9bc4c4fc1" />
 
 ---
 
@@ -187,14 +187,12 @@ Answer the following in your own words:
 
 **1. Which resource looks most critical right now? (CPU/load, memory, or disk) Explain why.**
 
-Write your answer here.
-
+Disk space is the most critical resource. The root filesystem (/dev/root) is at 99% usage, with only 130 MB available out of 6.7 GB. This leaves very little room for logs, updates, and application files.
 ---
 
 **2. What happens if disk becomes 100% full in a production server?**
 
-Write your answer here.
-
+If the disk becomes full, Nginx may fail to write logs, system updates may fail, and the application or other system services could malfunction. I should investigate large files and safely free disk space before the filesystem reaches 100%.
 ---
 
 # Task 5 — Configuration & Deployment Verification
