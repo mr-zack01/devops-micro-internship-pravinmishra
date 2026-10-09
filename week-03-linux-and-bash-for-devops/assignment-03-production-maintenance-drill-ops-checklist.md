@@ -48,20 +48,17 @@ Answer the following in your own words:
 
 **1. What proves Nginx is listening on 0.0.0.0:80?**
 
-Write your answer here.
-
+The output of sudo ss -tulpen shows 0.0.0.0:80 in the LISTEN state, and the associated process is Nginx. This confirms that Nginx is listening for HTTP connections on all IPv4 network interfaces.
 ---
 
 **2. What proves SSH is active on port 22?**
 
-Write your answer here.
-
+The output shows 0.0.0.0:22 and [::]:22 in the LISTEN state. The associated process is sshd, managed through the systemd SSH socket. This confirms that SSH is listening on port 22 for IPv4 and IPv6 connections.
 ---
 
 **3. Did you find any unexpected open ports? Explain briefly.**
 
-Write your answer here.
-
+I observed several additional listening ports, including local ports used by systemd-resolved, chronyd, and development-related processes. Most of these are bound to the loopback address 127.0.0.1, so they are not directly listening on all network interfaces. I would verify the purpose of any unfamiliar service and check the AWS Security Group rules before deciding whether a port presents a security risk.
 ---
 
 # Task 2 — Service Health & Systemd Validation (Nginx)
