@@ -111,19 +111,19 @@ Verify real traffic flow and analyze logs to understand system behavior and erro
 
 #### Screenshot 1 — Output of `sudo tail -n 30 /var/log/nginx/access.log`
 
-Add your screenshot here.
+<img width="1503" height="635" alt="image" src="https://github.com/user-attachments/assets/36f039c2-2c0a-4a71-b52a-21a757a727d1" />
 
 ---
 
 #### Screenshot 2 — Output of `sudo tail -n 30 /var/log/nginx/error.log`
 
-Add your screenshot here.
+<img width="1502" height="155" alt="image" src="https://github.com/user-attachments/assets/d673f8b3-ca59-428f-9111-9ef08c0aba5c" />
 
 ---
 
 #### Screenshot 3 — Output of `sudo journalctl -u nginx --no-pager -n 50`
 
-Add your screenshot here.
+<img width="1507" height="390" alt="image" src="https://github.com/user-attachments/assets/cd9a62ad-4e46-4677-9ae2-365e647aeb63" />
 
 ---
 
@@ -136,20 +136,17 @@ Answer the following in your own words:
 - If yes, mention 1–2 example error lines from the logs and explain what each one means in simple terms.
 - If no, explain what it means if the error log is empty or shows no recent errors during your check.
 
-Write your answer here.
-
+The Nginx error log showed a notice about inherited sockets, which is informational. The access log showed some 404 responses for paths such as /login and /admin/login.asp, meaning those requested resources were not found. It also showed a 400 response for unexpected TLS-like data sent to the HTTP port. These entries do not indicate that the application itself is down.
 ---
 
 **2. If there were no errors, what does that indicate about the system?**
 
-Write your answer here.
-
+The error log did not show any recent critical errors during my check. This suggests that Nginx was not recording major errors during the period examined. However, it does not guarantee that the system will never experience problems.
 ---
 
 **3. Based on the access logs, were your curl requests visible in the log entries? What does that prove about traffic flow?**
 
-Write your answer here.
-
+The access log contains successful HTTP requests and requests for static React files. These entries confirm that Nginx is receiving HTTP traffic and serving application content. However, the displayed entries do not clearly identify a specific curl request, so I would generate a new curl request and check the latest log entries to confirm it directly.
 ---
 
 # Task 4 — System Resource Health Check (Capacity Red Flags)
