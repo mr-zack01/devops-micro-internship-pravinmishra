@@ -120,13 +120,12 @@ Verify the deployed website and Nginx service are healthy.
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
-
+https://www.linkedin.com/posts/mr-zack01_aws-devops-linux-share-7516374691452739584--2Jg/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGxq6h8BmFdxEjgZsRCQ-jggJncjMKLdHOk
 ---
 
 #### Screenshot — Published LinkedIn post showing the live website with your Full Name in the footer
 
-Add your screenshot here.
+<img width="1016" height="938" alt="image" src="https://github.com/user-attachments/assets/9910004f-94a2-4ccd-bf1c-1c4e9dcc5f1e" />
 
 ---
 
