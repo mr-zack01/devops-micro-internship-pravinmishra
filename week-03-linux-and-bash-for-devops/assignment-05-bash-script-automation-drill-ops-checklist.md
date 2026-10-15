@@ -391,8 +391,7 @@ The final script uses variables to store personal information, an array to store
 
 Paste your LinkedIn post URL here:
 
-[`Add your URL here`
-](https://www.linkedin.com/posts/mr-zack01_devops-bashscripting-linux-share-7516389101583945728-GuQ1/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGxq6h8BmFdxEjgZsRCQ-jggJncjMKLdHOk)
+(https://www.linkedin.com/posts/mr-zack01_devops-bashscripting-linux-share-7516389101583945728-GuQ1/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGxq6h8BmFdxEjgZsRCQ-jggJncjMKLdHOk)
 ---
 
 #### Screenshot — Published LinkedIn post
