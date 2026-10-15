@@ -20,13 +20,13 @@ Confirm that you have a working GitHub account and can access your GitHub dashbo
 
 #### Screenshot 1 — GitHub dashboard or Home page showing you're signed in, with your username visible
 
-Add your screenshot here.
+<img width="1917" height="1027" alt="image" src="https://github.com/user-attachments/assets/e4594297-bbc1-48c7-b904-804f8dbb4f59" />
 
 ---
 
 #### Screenshot 2 (Optional but Recommended) — Your GitHub profile with `https://github.com/<username>` visible in the browser address bar
 
-Add your screenshot here.
+<img width="1917" height="1023" alt="image" src="https://github.com/user-attachments/assets/5c316c38-d3a0-4bfb-9c2d-7f47cc64bff9" />
 
 ---
 
@@ -40,19 +40,19 @@ Browse Trending, search for a public project, star at least one repository, and 
 
 #### Screenshot 3 — GitHub Trending page visible in the browser
 
-Add your screenshot here.
+<img width="1907" height="1021" alt="image" src="https://github.com/user-attachments/assets/403b5607-7538-443e-a3b9-6bf4d0f39eaf" />
 
 ---
 
 #### Screenshot 4 — A repository page showing the Star button in the Starred state
 
-Add your screenshot here.
+<img width="1877" height="916" alt="image" src="https://github.com/user-attachments/assets/654588b4-8396-468a-9f9b-345896f16fdc" />
 
 ---
 
 #### Screenshot 5 — Your forked repository page with your username and repository name visible in the URL
 
-Add your screenshot here.
+<img width="1903" height="1027" alt="image" src="https://github.com/user-attachments/assets/0ea83d04-3fa7-48bb-908e-25aa91a9e96d" />
 
 ---
 
@@ -66,7 +66,7 @@ Add a professional bio to your GitHub profile — and optionally your location, 
 
 #### Screenshot 6 — Your public GitHub profile showing your username and professional bio
 
-Add your screenshot here.
+<img width="598" height="1026" alt="image" src="https://github.com/user-attachments/assets/07a7b473-bbf8-4a22-ab67-23ac1d1c126b" />
 
 ---
 
@@ -82,19 +82,18 @@ Add your screenshot here.
 
 Paste your GitHub profile URL here:
 
-`Add your URL here`
-
+https://github.com/mr-zack01
 ---
 
 # Completion Checklist
 
-- [ ] GitHub account created or existing account confirmed (Screenshot 1)
-- [ ] Trending repositories explored (Screenshot 3)
-- [ ] At least one repository starred (Screenshot 4)
-- [ ] At least one public repository forked (Screenshot 5)
-- [ ] Professional bio added to your GitHub profile (Screenshot 6)
-- [ ] GitHub profile URL included
-- [ ] No passwords, codes, or authentication secrets exposed
+- [✅] GitHub account created or existing account confirmed (Screenshot 1)
+- [✅] Trending repositories explored (Screenshot 3)
+- [✅] At least one repository starred (Screenshot 4)
+- [✅] At least one public repository forked (Screenshot 5)
+- [✅] Professional bio added to your GitHub profile (Screenshot 6)
+- [✅] GitHub profile URL included
+- [✅] No passwords, codes, or authentication secrets exposed
 
 ---
 
