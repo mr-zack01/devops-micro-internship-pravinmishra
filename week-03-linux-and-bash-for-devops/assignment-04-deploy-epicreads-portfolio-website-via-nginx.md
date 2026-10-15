@@ -48,7 +48,7 @@ Update the website footer with your deployment details.
 
 #### Screenshot 2 — Nano editor open with the updated footer showing your Full Name, Group, Week, and Date
 
-Add your screenshot here.
+<img width="1660" height="625" alt="image" src="https://github.com/user-attachments/assets/cb432429-d39a-4dd7-bd6d-8e634a9be121" />
 
 ---
 
@@ -62,13 +62,13 @@ Deploy the portfolio website to the Nginx web root.
 
 #### Screenshot 3 — Output of `sudo nginx -t` showing configuration test successful
 
-Add your screenshot here.
+<img width="1110" height="70" alt="image" src="https://github.com/user-attachments/assets/106f4ea9-9fde-438c-992e-acd4a32330d8" />
 
 ---
 
 #### Screenshot 4 — Output of `ls /var/www/html` showing deployed website files
 
-Add your screenshot here.
+<img width="1100" height="48" alt="image" src="https://github.com/user-attachments/assets/d195c6e7-cbcb-4338-9559-3ff8173a82e0" />
 
 ---
 
@@ -82,13 +82,13 @@ Verify the deployed website is publicly accessible and the footer contains your 
 
 #### Screenshot 5 — Output of `curl ifconfig.me` showing the server's public IP address
 
-Add your screenshot here.
+<img width="1652" height="161" alt="image" src="https://github.com/user-attachments/assets/719173c2-e971-4bcd-a5a2-34ee5c0976b4" />
 
 ---
 
 #### Screenshot 6 — Browser showing the live website with your Full Name and deployment details in the footer
 
-Add your screenshot here.
+<img width="1913" height="1022" alt="image" src="https://github.com/user-attachments/assets/1ddad8de-8d07-4df3-bea1-8bea71657c29" />
 
 ---
 
@@ -102,13 +102,13 @@ Verify the deployed website and Nginx service are healthy.
 
 #### Screenshot 7 — Output of `systemctl is-enabled nginx`
 
-Add your screenshot here.
+<img width="993" height="53" alt="image" src="https://github.com/user-attachments/assets/0c174615-38ea-42b5-ab5f-b7f5873d2098" />
 
 ---
 
 #### Screenshot 8 — Output of `curl -I http://localhost` showing 200 OK
 
-Add your screenshot here.
+<img width="1657" height="330" alt="image" src="https://github.com/user-attachments/assets/61acafa4-ae05-4c00-b03c-cd35cea4f8e5" />
 
 ---
 
