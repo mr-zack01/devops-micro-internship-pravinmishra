@@ -20,13 +20,13 @@ Confirm that Nginx and the React application are healthy before building the aut
 
 #### Screenshot 1 — Output of `systemctl is-active nginx`, `ss -ltn | grep ':80'`, and `curl -I http://localhost`
 
-Add your screenshot here.
+<img width="617" height="325" alt="image" src="https://github.com/user-attachments/assets/7d116f07-436f-45f3-8e25-daee3b6b0ce5" />
 
 ---
 
 #### Screenshot 2 — Output of `pwd` and `find . -maxdepth 4 -type d | sort` showing the workspace folder structure
 
-Add your screenshot here.
+<img width="742" height="221" alt="image" src="https://github.com/user-attachments/assets/3b9a3b1f-2b35-4d5c-8164-9ce60ddf100e" />
 
 ---
 
@@ -36,20 +36,17 @@ Answer the following in your own words:
 
 **1. What proves that Nginx is running?**
 
-Add your answer here.
-
+The command systemctl is-active nginx returns active.
 ---
 
 **2. What proves that the server is listening for HTTP traffic?**
 
-Add your answer here.
-
+The ss -ltn output shows a listening socket on port 80, and curl -I http://localhost checks whether the server responds to an HTTP request.
 ---
 
 **3. Why must you capture a healthy baseline before simulating an incident?**
 
-Add your answer here.
-
+It gives us evidence of the server's normal state so we can compare it with the state during the simulated incident and verify recovery afterward.
 ---
 
 # Task 2 — Create Project Context and Safety Rules in CLAUDE.md
@@ -62,7 +59,7 @@ Tell Claude exactly what this project does and what it is not allowed to do.
 
 #### Screenshot 3 — CLAUDE.md open in VS Code showing all four sections (Project Overview, Incident Workflow, Safety Rules, Output Rules)
 
-Add your screenshot here.
+<img width="1907" height="713" alt="image" src="https://github.com/user-attachments/assets/79780dd1-8631-4d20-8c55-8e2fe6322ae4" />
 
 ---
 
@@ -72,20 +69,17 @@ Answer the following in your own words:
 
 **1. Why should Claude receive project-specific operational rules?**
 
-Add your answer here.
-
+They define the project's purpose, permitted actions, and safety boundaries so Claude can assist consistently without making unauthorized changes.
 ---
 
 **2. Why is the human required to execute the recovery command?**
 
-Add your answer here.
-
+A human must review the evidence and approve the action to prevent unintended service disruption or unsafe changes.
 ---
 
 **3. Which rule prevents Claude from making an unsupported diagnosis?**
 
-Add your answer here.
-
+The rule requiring Claude to state observed evidence before making a diagnosis and clearly distinguish facts from assumptions.
 ---
 
 # Task 3 — Use Agentic AI to Plan Before Writing the Script
@@ -98,7 +92,7 @@ Use Claude Code to inspect the environment and produce a read-only plan before c
 
 #### Screenshot 4 — Claude Code showing the five-check plan and read-only inspection results
 
-Add your screenshot here.
+<img width="1517" height="497" alt="image" src="https://github.com/user-attachments/assets/b79267ff-01b3-4131-90ba-84198d38908b" />
 
 ---
 
@@ -108,20 +102,17 @@ Answer the following in your own words:
 
 **1. Which part of this task represents the Gather phase?**
 
-Add your answer here.
-
+The Gather phase consists of collecting evidence about Nginx status, the localhost HTTP response, port 80, root filesystem usage, and system load using read-only commands.
 ---
 
 **2. Did Claude follow the instruction not to create files? How did you verify this?**
 
-Add your answer here.
-
+Claude Code stopped because the account's credit balance was too low, so it did not complete the requested inspection. I checked the project using pwd and ls -la and confirmed that the existing project files were present. This does not prove what Claude would have done if it had run successfully.
 ---
 
 **3. Why is planning before coding useful in DevOps automation?**
 
-Add your answer here.
-
+Planning identifies the required checks, expected evidence, and safety restrictions before implementation. This helps prevent unnecessary commands and reduces the risk of accidental changes to a running server.
 ---
 
 # Task 4 — Build the Linux Triage Bash Script
