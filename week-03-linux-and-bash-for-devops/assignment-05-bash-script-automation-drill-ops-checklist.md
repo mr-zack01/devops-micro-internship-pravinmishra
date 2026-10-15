@@ -20,13 +20,13 @@ Verify that Bash is available on your system and create a clean workspace for th
 
 #### Screenshot 1 — Output of `echo $SHELL` and `bash --version`
 
-Add your screenshot here.
+<img width="1652" height="285" alt="image" src="https://github.com/user-attachments/assets/7f63457e-4275-445f-ba6a-d3ec3423191a" />
 
 ---
 
 #### Screenshot 2 — Output of `pwd` and `ls -lah` showing the scripts directory
 
-Add your screenshot here.
+<img width="1128" height="145" alt="image" src="https://github.com/user-attachments/assets/939e307d-2bf8-4b30-9f20-df8a52aac20a" />
 
 ---
 
@@ -36,20 +36,17 @@ Answer the following in your own words:
 
 **1. What is Bash?**
 
-Add your answer here.
-
+Bash stands for Bourne Again Shell. It is a command-line interpreter used to execute Linux commands and automate repetitive tasks through scripts.
 ---
 
 **2. What is the difference between shell and Bash?**
 
-Add your answer here.
-
+A shell is a program that interprets commands and allows users to interact with an operating system. Bash is one specific type of shell.
 ---
 
 **3. Why is it important to confirm the Bash version before writing scripts?**
 
-Add your answer here.
-
+Checking the Bash version helps confirm that the system supports the features and syntax used in a script. It can help prevent compatibility problems during execution.
 ---
 
 # Task 2 — Your First Bash Script
@@ -62,7 +59,7 @@ Create your first Bash script, make it executable, and run it from the terminal.
 
 #### Screenshot 1 — Content of `first-script.sh`
 
-Add your screenshot here.
+<img width="1657" height="178" alt="image" src="https://github.com/user-attachments/assets/0823ebf9-60f9-4d30-958c-b99ce30091ef" />
 
 ---
 
