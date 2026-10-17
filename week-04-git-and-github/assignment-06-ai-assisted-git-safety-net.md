@@ -77,7 +77,7 @@ Create a tracked, shareable pre-commit hook that blocks a commit containing secr
 
 #### Screenshot 3 — Output of `git config core.hooksPath` confirming it points to `hooks`
 
-Add your screenshot here.
+<img width="1062" height="145" alt="image" src="https://github.com/user-attachments/assets/fa4a2f18-dbb9-471e-9014-d4e95051ea0b" />
 
 ---
 
@@ -133,7 +133,7 @@ Create a manually invoked Claude Code skill that reads your staged changes and p
 
 #### Screenshot 5 — `SKILL.md` frontmatter showing `allowed-tools: Bash, Read, Grep` (no `Write`) and `disable-model-invocation: true`
 
-Add your screenshot here.
+<img width="1121" height="526" alt="image" src="https://github.com/user-attachments/assets/7218ddd4-1124-4b2a-bcfa-759c6be3d4ff" />
 
 ---
 
