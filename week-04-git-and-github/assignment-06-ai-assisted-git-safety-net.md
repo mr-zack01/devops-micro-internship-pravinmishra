@@ -27,7 +27,7 @@ Confirm you are working in your own fork, then create a dedicated branch for thi
 
 #### Screenshot 1 — Output of git remote -v and git branch showing the new branch
 
-Add your screenshot here.
+<img width="953" height="215" alt="image" src="https://github.com/user-attachments/assets/d705005a-4588-4a06-9942-7327a4b73ec9" />
 
 ---
 
@@ -49,7 +49,7 @@ On your own fork of this repository (the one you've been submitting your DMI wor
 
 #### Screenshot 1 — Output of  `git status` showing the staged file on feature/ai-pr-ready
 
-Add your screenshot here.
+<img width="642" height="175" alt="image" src="https://github.com/user-attachments/assets/2da58807-86bb-4498-9898-328b1538a4e5" />
 
 ---
 
@@ -71,7 +71,7 @@ Create a tracked, shareable pre-commit hook that blocks a commit containing secr
 
 #### Screenshot 2 — `hooks/pre-commit` open in VS Code showing the full script
 
-Add your screenshot here.
+<img width="822" height="85" alt="image" src="https://github.com/user-attachments/assets/1b4200bb-b0a5-453a-b9dd-784687a3b43e" />
 
 ---
 
