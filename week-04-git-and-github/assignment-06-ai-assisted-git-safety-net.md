@@ -268,7 +268,7 @@ Add 3-5 bullet points on what you learned this week.
 
 * Git hooks can block risky commits before they are created.
 * Tracking hooks in a repository makes them easier to share.
-* I-assisted reviews can identify contextual risks and unclear code.AI-assisted reviews can identify contextual risks and unclear code.
+* AI-assisted reviews can identify contextual risks and unclear code.AI-assisted reviews can identify contextual risks and unclear code.
 * Humans should verify AI suggestions before committing or opening a PR.
 
 ---
