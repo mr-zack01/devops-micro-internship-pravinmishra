@@ -34,7 +34,7 @@ Configure one authentication method — HTTPS with a Personal Access Token, or S
 
 #### Screenshot 2 — Output of `git config --global --get credential.helper` (HTTPS) or `ssh -T git@github.com` (SSH) showing successful authentication — never show your token or private key
 
-Add your screenshot here.
+<img width="938" height="73" alt="image" src="https://github.com/user-attachments/assets/7e638d66-d4e4-40d4-a699-deaa45c0cba0" />
 
 ---
 
@@ -48,7 +48,7 @@ Clone your fork locally, then add the original repository as `upstream`.
 
 #### Screenshot 3 — Output of `git remote -v` showing `origin` pointing to your fork and `upstream` pointing to `pravinmishraaws/devops-micro-internship-interviews`
 
-Add your screenshot here.
+<img width="1437" height="165" alt="image" src="https://github.com/user-attachments/assets/8be5e7c4-27d2-4cdf-bb7c-6c48c83628aa" />
 
 ---
 
