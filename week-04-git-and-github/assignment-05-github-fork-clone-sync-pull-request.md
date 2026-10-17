@@ -62,13 +62,13 @@ Create the branch `feature-readme-update`, add only your own entry (`Full Name �
 
 #### Screenshot 4 — Output of `git status` showing `pull_request.md` modified before staging
 
-Add your screenshot here.
+<img width="697" height="218" alt="image" src="https://github.com/user-attachments/assets/816f3887-c7e6-4c7f-b136-e598dfcdde2e" />
 
 ---
 
 #### Screenshot 5 — Output of `git commit`
 
-Add your screenshot here.
+<img width="1026" height="72" alt="image" src="https://github.com/user-attachments/assets/e1ffcd12-c61b-4831-86e3-0226f06effca" />
 
 ---
 
@@ -82,13 +82,13 @@ Fetch and merge `upstream/main` into your local default branch, rebase your feat
 
 #### Screenshot 6 — Output of `git push -u origin feature-readme-update` showing a successful push
 
-Add your screenshot here.
+<img width="1018" height="371" alt="image" src="https://github.com/user-attachments/assets/52c15c92-fdc4-4228-9414-f447253ae179" />
 
 ---
 
 #### Screenshot 7 — Your fork on GitHub showing `feature-readme-update` in the branch selector or a "Compare & pull request" banner
 
-Add your screenshot here.
+<img width="1917" height="1027" alt="image" src="https://github.com/user-attachments/assets/7e71a4ac-a1fc-4cdb-8ab3-dc6266db56ec" />
 
 ---
 
@@ -102,13 +102,13 @@ Open a Pull Request from `feature-readme-update` on your fork to `main` on the u
 
 #### Screenshot 8 — Pull Request creation page showing the correct base repository, base branch, head repository, compare branch, and title
 
-Add your screenshot here.
+<img width="1917" height="1027" alt="image" src="https://github.com/user-attachments/assets/db920b1e-3e70-46f8-b666-b98e5c91188a" />
 
 ---
 
 #### Screenshot 9 — Successfully created Pull Request page with the PR number visible
 
-Add your screenshot here.
+<img width="1917" height="1023" alt="image" src="https://github.com/user-attachments/assets/d0cf4be5-a12c-403f-b798-aabf6132033f" />
 
 ---
 
@@ -116,8 +116,7 @@ Add your screenshot here.
 
 Paste your Pull Request URL here:
 
-`Add your URL here`
-
+https://github.com/pravinmishraaws/devops-micro-internship-interviews/pull/497
 ---
 
 # LinkedIn Post (Required)
@@ -128,13 +127,12 @@ Paste your Pull Request URL here:
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
-
+https://www.linkedin.com/posts/mr-zack01_devops-git-github-share-7517201268122062848-1g-K/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGxq6h8BmFdxEjgZsRCQ-jggJncjMKLdHOk
 ---
 
 #### Screenshot — LinkedIn post showing your successfully created Pull Request
 
-Add your screenshot here.
+<img width="1010" height="838" alt="image" src="https://github.com/user-attachments/assets/f09390c5-919a-465e-9d14-6b6f56aebd7e" />
 
 ---
 
@@ -151,21 +149,20 @@ Add your screenshot here.
 
 Paste your fork URL here:
 
-`Add your URL here`
-
+https://github.com/mr-zack01/devops-micro-internship-interviews
 ---
 
 # Completion Checklist
 
-- [ ] Upstream repository forked to your GitHub account (Screenshot 1)
-- [ ] GitHub authentication configured securely (Screenshot 2)
-- [ ] Fork cloned locally with `origin` and `upstream` configured (Screenshot 3)
-- [ ] Only `pull_request.md` modified, with your own entry added (Screenshots 4–5)
-- [ ] Local default branch synchronized with `upstream/main`, feature branch rebased and pushed (Screenshots 6–7)
-- [ ] Pull Request opened against the correct upstream repository and branch (Screenshots 8–9)
-- [ ] Fork URL and Pull Request URL included
-- [ ] LinkedIn post published and URL submitted
-- [ ] No PAT, password, private key, or authentication secret exposed
+- [✅] Upstream repository forked to your GitHub account (Screenshot 1)
+- [✅] GitHub authentication configured securely (Screenshot 2)
+- [✅] Fork cloned locally with `origin` and `upstream` configured (Screenshot 3)
+- [✅] Only `pull_request.md` modified, with your own entry added (Screenshots 4–5)
+- [✅] Local default branch synchronized with `upstream/main`, feature branch rebased and pushed (Screenshots 6–7)
+- [✅] Pull Request opened against the correct upstream repository and branch (Screenshots 8–9)
+- [✅] Fork URL and Pull Request URL included
+- [✅] LinkedIn post published and URL submitted
+- [✅] No PAT, password, private key, or authentication secret exposed
 
 ---
 
