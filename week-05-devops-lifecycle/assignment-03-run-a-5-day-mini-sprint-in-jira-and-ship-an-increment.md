@@ -156,11 +156,16 @@ Record a two-to-three-minute demo video of the shipped footer, add a retrospecti
 
 #### Screenshot 15 — Burndown Chart for Sprint 1
 
+<img width="1917" height="1030" alt="image" src="https://github.com/user-attachments/assets/737b3e7c-e010-4921-9050-11017e0fd98b" />
 
 
 ---
 
 #### Screenshot 16 — Jira retrospective comment
+
+<img width="772" height="922" alt="image" src="https://github.com/user-attachments/assets/69c710a8-a6aa-45cf-943c-d2c3c98547e0" />
+<img width="767" height="923" alt="image" src="https://github.com/user-attachments/assets/c999c057-34da-4826-9770-db55309afa1f" />
+
 
 
 ---
