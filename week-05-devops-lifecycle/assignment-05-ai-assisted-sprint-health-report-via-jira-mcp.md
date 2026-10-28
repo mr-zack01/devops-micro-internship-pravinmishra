@@ -20,13 +20,13 @@ Generate an API token from your Atlassian account that the MCP server will use t
 
 #### Screenshot 1 — Jira API token creation confirmation page showing the token name, with the token value not visible
 
-Add your screenshot here.
+<img width="1917" height="558" alt="image" src="https://github.com/user-attachments/assets/758ba22f-f954-4674-85e8-b8f7a51c9748" />
 
 ### Notes You Must Write (Very Important):
 
 Why does the MCP server need your site URL and account email in addition to the token?
 
-Add your answer here
+Jira uses basic authentication where your email acts as the username and the token acts as the password. The site URL is required so the MCP server knows the exact cloud endpoint to connect to.
 
 ---
 
@@ -40,14 +40,13 @@ Create or update `.mcp.json` at your project root with a Jira MCP server block, 
 
 #### Screenshot 2 — `.mcp.json` open in VS Code showing the Jira server configuration
 
-Add your screenshot here.
+<img width="1077" height="597" alt="image" src="https://github.com/user-attachments/assets/baa1206b-8d7a-40c7-97b4-f3dfee1644c7" />
 
 ### Notes You Must Write (Very Important):
 
 Compare this jira block to the github block from Week 2 Assignment 5. The GitHub server ran via npx (a Node.js package); this one runs via uvx (a Python package) — what stays exactly the same shape despite that difference, and why doesn't Claude Code care which language a given MCP server is written in?
 
-Add your answer here
-
+The overall JSON structure (mcpServers, command, args, env) stays identical. Claude Code doesn't care about the programming language because MCP standardizes communication over standard input/output using JSON-RPC.
 ---
 
 # Task 3 — Add Your Credentials to settings.local.json
@@ -60,14 +59,13 @@ Add your Jira site URL, account email, and API token to `.claude/settings.local.
 
 #### Screenshot 3 — `settings.local.json` open in VS Code showing the `env` section, with the actual token value blurred or covered
 
-Add your screenshot here.
+<img width="1110" height="372" alt="image" src="https://github.com/user-attachments/assets/39fd57c8-be7b-402b-aad7-c9a00dc09901" />
 
 ### Notes You Must Write (Very Important):
 
 Why must JIRA_API_TOKEN live in settings.local.json and never in .mcp.json?
 
-Add your answer here
-
+.mcp.json is tracked in Git and shared publicly or with team repositories. Putting secrets like API tokens there exposes them. settings.local.json is gitignored, keeping credentials safe and local.
 ---
 
 # Task 4 — Verify the Connection with /mcp
