@@ -92,14 +92,13 @@ Ask Claude to list the issues in your current active sprint through the Jira MCP
 
 #### Screenshot 5 — Claude's response showing the live sprint issue list retrieved via Jira MCP
 
-Add your screenshot here.
+<img width="637" height="742" alt="image" src="https://github.com/user-attachments/assets/b956556b-45bf-4d44-afc7-08826062e71d" />
 
 ### Notes You Must Write (Very Important):
 
 How did you confirm this was real board data and not something Claude guessed?
 
-Add your answer here
-
+I verified that Claude executed the Jira MCP search_issues tool directly against my Atlassian site (zakariyaarqam83410.atlassian.net) and returned 20 live issues matching my real Jira board items—including real ticket IDs (DMIWEB-1 through DMIWEB-21), statuses (Done, To Do), and exact issue summaries.
 ---
 
 # Task 6 — Build the /sprint-health Skill
