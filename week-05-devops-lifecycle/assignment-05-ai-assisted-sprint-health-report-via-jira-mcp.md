@@ -78,7 +78,7 @@ Restart Claude Code and confirm the Jira MCP server shows as connected.
 
 #### Screenshot 4 — `/mcp` output showing `jira: connected`
 
-Add your screenshot here.
+<img width="516" height="243" alt="image" src="https://github.com/user-attachments/assets/b92bd9b4-f47e-48aa-9950-ad4b56e58189" />
 
 ---
 
