@@ -82,8 +82,8 @@ This is not a course. It is an internship-style program — real deployments, re
 -- Week 04 → Git & GitHub --
 -- [![Week 04 – Git](./badges/week-04.svg)](./week-04-git-and-github/) --
 
-<!-- Week 05 → DevOps Lifecycle & Agile -->
-<!-- [![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/) -->
+-- Week 05 → DevOps Lifecycle & Agile --
+-- [![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/) --
 
 <!-- Week 06 → AWS Cloud -->
 <!-- [![Week 06 – AWS](./badges/week-06.svg)](./week-06-aws-cloud/) -->
@@ -135,7 +135,7 @@ This is not a course. It is an internship-style program — real deployments, re
 | 02 | Agentic AI with Claude Code | ✅ Completed | ✅ solved | https://www.linkedin.com/posts/mr-zack01_devops-agenticai-ai-share-7511744695065022464-GFSh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGxq6h8BmFdxEjgZsRCQ-jggJncjMKLdHOk | https://medium.com/@zakariya.arqam1086/week-02-of-my-devops-micro-internship-exploring-the-world-of-agentic-ai-fc1475ec596d?postPublishedType=initial |
 | 03 | Linux & Bash for DevOps | ✅ Completed | ✅ solved | https://www.linkedin.com/posts/mr-zack01_devops-linux-bashscripting-share-7516481639657701376-TrV0/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGxq6h8BmFdxEjgZsRCQ-jggJncjMKLdHOk | https://medium.com/@zakariya.arqam1086/week-03-of-my-devops-micro-internship-linux-bash-real-world-devops-984d4fe1cf69?postPublishedType=initial |
 | 04 | Git & GitHub | ✅ Completed | ✅ solved | https://www.linkedin.com/posts/mr-zack01_devops-git-github-share-7517220660771835904-gLgo/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGxq6h8BmFdxEjgZsRCQ-jggJncjMKLdHOk | https://medium.com/@zakariya.arqam1086/week-04-of-my-devops-micro-internship-mastering-git-github-23839b3d60d4?postPublishedType=initial |
-| 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
+| 05 | DevOps Lifecycle & Agile | ✅ Completed | ✅ solved | https://www.linkedin.com/posts/mr-zack01_dmi-devops-jira-share-7522561295888506880-iMWL/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGxq6h8BmFdxEjgZsRCQ-jggJncjMKLdHOk | https://medium.com/@zakariya.arqam1086/week-05-completed-dmi-devops-micro-internship-c2c354696adf?postPublishedType=initial |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
